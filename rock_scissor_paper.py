@@ -4,6 +4,7 @@
 from random import choice
 import sys
 #I don't like having to use sys to exit the program, but how can I do it without?
+#new test comment
 
 tools = ['scissor', 'paper', 'rock']
 
